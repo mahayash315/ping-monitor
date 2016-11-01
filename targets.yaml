@@ -1,0 +1,5 @@
+hostA:
+  host: hostA.example.com
+  mailto: [
+    'webmaster@example.com'
+  ]
